@@ -60,16 +60,13 @@ Alongside web development, I am an **AI enthusiast**, exploring how **Python and
 
 ---
 
-## 📊 GitHub Stats
- ## 📊 GitHub Stats
+ 
+ ## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaR-O1&show_icons=true&theme=dark" alt="GitHub Stats" />
-</p>
+- Actively building MERN and frontend projects
+- Regular commits and continuous learning
+- Focused on clean code and real-world applications
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaR-O1&theme=dark" alt="GitHub Streak" />
-</p>
 
 ---
 
