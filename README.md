@@ -1,15 +1,83 @@
- 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100033788358907) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajneesh._rajput_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/rajneesh-rajput-669785367) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajneeshrajpoot113@gmail.com) 
+<h1 align="center">Hi 👋, I'm Rajneesh Rajput</h1>
+<h3 align="center">B.Tech Student | MERN Stack Developer | AI Enthusiast</h3>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RaR-O1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RaR-O1&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RaR-O1&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+I don’t just code — I craft clean, scalable, and practical solutions.
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=RaR-O1&icon=0&color=0)](https://visitcount.itsvg.in)
 
- 
+## 👨‍💻 About Me
+
+I am a **B.Tech CSE (Artificial Intelligence)** student with a strong foundation in **C and Java**, currently working as a **MERN Stack Developer** and **Java programmer**.
+
+My journey began with core programming concepts, which helped me develop a solid **problem-solving mindset** before moving into **full-stack web development** using **MongoDB, Express.js, React, and Node.js**.
+
+Alongside web development, I am an **AI enthusiast**, exploring how **Python and AI fundamentals** can be applied to real-world web applications to enhance functionality and user experience.
+
+- 🎓 B.Tech CSE (AI) — *2024–2028*
+- 💻 MERN Stack Developer (Student)
+- 🌱 Currently improving **React, Node.js, REST APIs**
+- 🔍 Interested in **internships, projects & collaborations**
+- 📍 Based in **India**
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Programming & Tools
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+
+---
+
+## 📌 Featured Projects
+
+- **EventUs**  
+  A mini project for organizing college events using Node.js and EJS.
+
+- **PR1 Photography Website**  
+  A web platform for photographers to upload and showcase photos.
+
+- **Instagram Clone**  
+  A frontend-focused clone built to practice UI, layout, and responsiveness.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RaR-O1&show_icons=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaR-O1&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 📧 Email: **rajneeshrajpoot113@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/rajneesh-rajput-669785367](https://www.linkedin.com/in/rajneesh-rajput-669785367)
+- 🐙 GitHub: [github.com/RaR-O1](https://github.com/RaR-O1)
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
