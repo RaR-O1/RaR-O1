@@ -61,13 +61,14 @@ Alongside web development, I am an **AI enthusiast**, exploring how **Python and
 ---
 
 ## 📊 GitHub Stats
+ ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RaR-O1&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RaR-O1&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaR-O1&theme=dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaR-O1&theme=dark" alt="GitHub Streak" />
 </p>
 
 ---
