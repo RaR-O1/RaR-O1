@@ -1,81 +1,305 @@
-<h1 align="center">Hi 👋, I'm Rajneesh Rajput</h1>
-<h3 align="center">B.Tech Student | MERN Stack Developer | AI Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-I don’t just code — I craft clean, scalable, and practical solutions.
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1A1005&height=200&section=header&text=Rajneesh%20Rajput&fontSize=52&fontColor=FF8C00&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20MERN%20Developer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=65&descSize=18&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 👨‍💻 About Me
+<div align="center">
 
-I am a **B.Tech CSE (Artificial Intelligence)** student with a strong foundation in **C and Java**, currently working as a **MERN Stack Developer** and **Java programmer**.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=FF8C00&center=true&vCenter=true&width=650&lines=%24+whoami;Rajneesh+Rajput+%E2%80%94+MERN+Stack+Developer;%24+cat+specialization.txt;Full-Stack+%2B+AI-driven+ecosystems;%24+status+--current;Building+EventUs+%7C+PR1-Photography+%7C+Exploring+AI)](https://git.io/typing-svg)
 
-My journey began with core programming concepts, which helped me develop a solid **problem-solving mindset** before moving into **full-stack web development** using **MongoDB, Express.js, React, and Node.js**.
+</div>
 
-Alongside web development, I am an **AI enthusiast**, exploring how **Python and AI fundamentals** can be applied to real-world web applications to enhance functionality and user experience.
+<div align="center">
 
-- 🎓 B.Tech CSE (AI) — *2024–2028*
-- 💻 MERN Stack Developer (Student)
-- 🌱 Currently improving **React, Node.js, REST APIs**
-- 🔍 Interested in **internships, projects & collaborations**
-- 📍 Based in **India**
+![Degree](https://img.shields.io/badge/Degree-B.Tech%20CSE%20(AI)-FF8C00?style=flat-square&labelColor=0D1117)
+![University](https://img.shields.io/badge/University-G.L.%20Bajaj%20Institute-FF8C00?style=flat-square&labelColor=0D1117)
+![Location](https://img.shields.io/badge/Location-Delhi%2C%20India-FF8C00?style=flat-square&labelColor=0D1117)
 
----
+</div>
 
-## 🛠️ Tech Stack
+<div align="center">
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajneeshrajput.in-FF8C00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://www.rajneeshrajput.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/rajneesh-rajput-669785367)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:rajneeshrajpoot113@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RaR--O1-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/RaR-O1)
 
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+</div>
 
-### Programming & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge)
+<div align="center">
 
----
+![Profile Views](https://komarev.com/ghpvc/?username=RaR-O1&color=FF8C00&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/RaR-O1?style=flat-square&color=FF8C00&labelColor=0D1117&label=Followers)
+![Stars](https://img.shields.io/github/stars/RaR-O1?style=flat-square&color=FF8C00&labelColor=0D1117&label=Stars)
 
-## 📌 Featured Projects
+</div>
 
-- **EventUs**  
-  A mini project for organizing college events using Node.js and EJS.
+<br>
 
-- **PR1 Photography Website**  
-  A web platform for photographers to upload and showcase photos.
+## `$ cat about.md`
 
-- **Instagram Clone**  
-  A frontend-focused clone built to practice UI, layout, and responsiveness.
+I'm a 3rd-year B.Tech CSE (AI) student and MERN Stack Developer who doesn't just write code — I craft clean, scalable, and practical solutions. My work sits at the intersection of full-stack web engineering and applied AI, and I've tested that mindset in real hackathon rooms, not just tutorials. Currently building production-style projects while sharpening React, Node.js, and REST API design.
 
----
+```bash
+const rajneesh = {
+  role       : "Full-Stack Engineer (MERN) | AI Enthusiast",
+  experience : "3rd-year B.Tech CSE (AI) student",
+  domain     : "Full-Stack Web Development + AI-driven ecosystems",
+  stack      : ["React", "Node.js", "Express.js", "MongoDB", "MySQL", "Java", "Python"],
+  open_to    : ["Internships", "Collaborations", "Open Source"]
+};
+```
 
- 
- ## 📊 GitHub Activity
+<br>
 
-- Actively building MERN and frontend projects
-- Regular commits and continuous learning
-- Focused on clean code and real-world applications
+## `$ ls tech-stack/`
 
+**Frontend**
 
----
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 
-## 🌐 Connect With Me
+**Backend & Databases**
 
-- 📧 Email: **rajneeshrajpoot113@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/rajneesh-rajput-669785367](https://www.linkedin.com/in/rajneesh-rajput-669785367)
-- 🐙 GitHub: [github.com/RaR-O1](https://github.com/RaR-O1)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
 
----
+**Languages & Tools**
 
-⭐ *Always learning. Always building. Always improving.*
+![Java](https://skillicons.dev/icons?i=java)
+![Python](https://skillicons.dev/icons?i=python)
+![C](https://skillicons.dev/icons?i=c)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+
+<br>
+
+## `$ cat specialties.badges`
+
+<div align="center">
+
+![MERN](https://img.shields.io/badge/MERN-Full--Stack%20Development-FF8C00?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)
+![AI](https://img.shields.io/badge/AI-Applied%20Enthusiast-FF8C00?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117)
+![Security](https://img.shields.io/badge/Security-Network%20Security-FF8C00?style=for-the-badge&logo=paloaltonetworks&logoColor=white&labelColor=0D1117)
+![Cloud](https://img.shields.io/badge/Cloud-Computing%20Fundamentals-FF8C00?style=for-the-badge&logo=icloud&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<br>
+
+## `$ describe --expertise`
+
+<div align="center">
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Frontend Development | ●●●●○ | React, Tailwind CSS, JavaScript, responsive UI |
+| Backend Development | ●●●●○ | Node.js, Express.js, REST APIs |
+| Database Management | ●●●○○ | MongoDB, MySQL, schema design |
+| AI & Python Fundamentals | ●●●○○ | Exploring AI integration in web apps |
+| Version Control & Collaboration | ●●●●○ | Git, GitHub, team-based hackathon builds |
+| Network & Cloud Security Basics | ●●○○○ | Palo Alto (Network Security), EC-Council (Cloud) |
+
+</div>
+
+<br>
+
+## `$ ls -la featured-projects/`
+
+<details open>
+<summary><b>📌 EventUs</b></summary>
+<br>
+
+A mini project built for organizing college events end-to-end — from creation to participant management.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| Node.js, EJS | College-level event platform | Streamlined event organization workflow |
+
+</details>
+
+<details>
+<summary><b>📌 PR1 Photography Website</b></summary>
+<br>
+
+A web platform for photographers to upload and showcase their photography portfolios.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| MERN (as pinned repo: PR1-photography-web-) | Public repo, upload + showcase flow | Live portfolio tool for photographers |
+
+</details>
+
+<details>
+<summary><b>📌 Instagram Clone</b></summary>
+<br>
+
+A frontend-focused clone built to practice UI composition, layout systems, and responsiveness.
+
+| Stack | Scale | Impact |
+|---|---|---|
+| HTML5, CSS3, JavaScript, React | Frontend practice build | Sharpened UI/responsive design skills |
+
+</details>
+
+<br>
+
+## `$ git log --experience`
+
+**Team Lead — DeCoders** · *Innovate Bharat Hackathon, Sharda University*
+- Led team DeCoders through a competitive hackathon environment
+- Coordinated build strategy under time pressure with a full team
+- `#Leadership` `#Hackathon` `#TeamManagement`
+
+**Finalist — India Innovates 2026** · *Bharat Mandapam, New Delhi*
+- Represented team work as a National Finalist at a nationally showcased innovation event
+- Presented project work on a national stage
+- `#NationalFinalist` `#Innovation`
+
+**Top 50 — Web of Innovation Hackathon** · *TechVerse*
+- Ranked among Top 50 teams for creativity, problem-solving, and technical execution
+- `#Hackathon` `#ProblemSolving`
+
+**1st Runner-Up — UnPollute Sustainability Ideathon**
+- Secured runner-up position building a sustainability-focused solution
+- `#Sustainability` `#Ideathon`
+
+<br>
+
+## `$ cat achievements.md`
+
+<div align="center">
+
+| Achievement | Event | Result |
+|---|---|---|
+| 🏆 National Finalist | India Innovates 2026, Bharat Mandapam | Finalist |
+| 🥈 1st Runner-Up | UnPollute Sustainability Ideathon | Runner-Up |
+| 🎖️ Top 50 Team | Web of Innovation Hackathon (TechVerse) | Top 50 |
+| 👥 Team Lead | Innovate Bharat Hackathon, Sharda University | Team Lead — DeCoders |
+
+</div>
+
+<br>
+
+## `$ whoami --education`
+
+<div align="center">
+
+![Education](https://img.shields.io/badge/B.Tech%20CSE%20(AI)-G.L.%20Bajaj%20Institute%20of%20Technology%20%26%20Management-FF8C00?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0D1117)
+
+</div>
+
+<br>
+
+## `$ ping coding-profiles`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-rajneesh__025-FF8C00?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0D1117)](https://leetcode.com/u/rajneesh_025/)
+
+</div>
+
+<br>
+
+## `$ curl github-analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RaR-O1&show_icons=true&bg_color=0D1117&title_color=FF8C00&text_color=E6EDF3&icon_color=FF8C00&border_color=FF8C00&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RaR-O1&background=0D1117&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E&border=FF8C00" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaR-O1&layout=compact&bg_color=0D1117&title_color=FF8C00&text_color=E6EDF3&border_color=FF8C00&hide_border=false" width="49%"/>
+
+</div>
+
+<br>
+
+## `$ ./show-trophies.sh`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RaR-O1&theme=flat&no-frame=true&column=7&title_color=FF8C00&icon_color=FF8C00&text_color=E6EDF3&border_radius=8" width="100%"/>
+
+</div>
+
+<br>
+
+## `$ tail -f activity-graph.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaR-O1&bg_color=0D1117&color=FF8C00&line=FF8C00&point=E6EDF3&area=true&area_color=FF8C00&hide_border=true" width="100%"/>
+
+</div>
+
+<br>
+
+## `$ generate --summary-cards`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=RaR-O1&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=RaR-O1&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=RaR-O1&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=RaR-O1&theme=github_dark" width="32%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=RaR-O1&theme=github_dark" width="100%"/>
+
+</div>
+
+<br>
+
+## `$ python snake.py --render`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RaR-O1/RaR-O1/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+> *Note: the snake animation renders only after a `github-contribution-grid-snake` GitHub Action is set up on this repo — see the note below the README.*
+
+<br>
+
+## `$ cat current-focus.yaml`
+
+```yaml
+learning:
+  - React (advanced patterns)
+  - Node.js
+  - REST API design
+building:
+  - EventUs (college event platform)
+  - PR1 Photography Website
+exploring:
+  - Python for AI fundamentals
+  - AI integration in web applications
+open_to:
+  - Internships
+  - Collaborative projects
+  - Open source contributions
+```
+
+<br>
+
+## `$ echo "let's connect"`
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rajneeshrajput.in-FF8C00?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://www.rajneeshrajput.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rajneesh--rajput-FF8C00?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/rajneesh-rajput-669785367)
+[![Email](https://img.shields.io/badge/Email-rajneeshrajpoot113%40gmail.com-FF8C00?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:rajneeshrajpoot113@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-RaR--O1-FF8C00?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/RaR-O1)
+
+*"I don't just code — I craft clean, scalable, and practical solutions."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1005,100:0D1117&height=150&section=footer&fontColor=FF8C00" width="100%"/>
